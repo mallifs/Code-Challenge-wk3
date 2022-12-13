@@ -1,0 +1,20 @@
+ * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+ 
+ 
+ 
+ body {
+    background: linear-gradient(rgb(47,150,163),rgb(48,62,143));
+    font-family: sans-serif;
+    color: white;
+    display: flex;
+     justify-content: center;
+     align-items: center;
+     flex-direction: column;
+     
+     
+ }
+
